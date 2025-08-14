@@ -1,0 +1,12 @@
+[
+  {
+    "prefix": "phreeqc3",
+    "url": "git@${CI_SERVER_HOST}:${GROUP}-subtrees/phreeqc3.git",
+    "repo": "usgs-coupled-subtrees/phreeqc3"
+  },
+  {
+    "prefix": "gridctrl",
+    "url": "git@${CI_SERVER_HOST}:${GROUP}-subtrees/wphast-src-gridctrl.git",
+    "repo": "usgs-coupled-subtrees/wphast-src-gridctrl"
+  }
+]
